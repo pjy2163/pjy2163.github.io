@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+body {
+    color: cadetblue;
+    
+}
+.clicked {
+    color: chocolate;
+}
+.form,
+.greetings {
+    display: none;
+}
+.showing {
+    display: block;
+}
